@@ -1,3 +1,4 @@
+![logo](https://github.com/soumyadipda/soumyadipda/blob/main/github_banner_v3_no_emoji.png)
 # 💫 About Me:
 Hi 👋, I'm Soumyadip Dhara<br>📊 Data Analytics Practitioner | Crafting Interactive Dashboards & Business Reports<br>🔭 I’m currently Studying Data Science
 
