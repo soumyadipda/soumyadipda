@@ -1,8 +1,10 @@
 ![logo](https://github.com/soumyadipda/soumyadipda/blob/main/github_banner_v3_no_emoji.png)
-# 💫 About Me:
-Hi 👋, I'm Soumyadip Dhara<br>📊 Data Analytics Practitioner | Crafting Interactive Dashboards & Business Reports<br>🔭 I’m currently Studying Data Science
+
+<h1 align="center">Hi 👋, I'm Soumyadip Dhara</h1>
+<h3 align="center">Data Analytics Practitioner | Crafting Interactive Dashboards & Business Reports</h3>
 
 <img align="right" alt="Analysis" width="400" src="https://cdn.dribbble.com/userupload/42070034/file/original-b8cd7ae9ac9164c57b6f930d8612699d.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyadipdhara1/) 
