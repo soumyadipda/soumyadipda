@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Soumyadip Dhara</h1>
 <h3 align="center">Data Analytics Practitioner | Crafting Interactive Dashboards & Business Reports</h3>
 
-<img align="right" alt="Analysis" width="480" height="235" src="https://miro.medium.com/1*HyD0I4NLyhPFtLkFWMcZdw.gif">
+<img align="right" alt="Analysis" width="555" height="280" src="https://cdn.dribbble.com/userupload/20903764/file/original-54080c1d010ef0bc22fb66b815e6e848.gif">
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
